@@ -1,0 +1,15 @@
+#container {
+	text-align: center;
+	flex-flow: left;
+	margin: 0 auto;
+}
+
+input {
+	margin: 5px 30px;
+	padding: 5px;
+	width: 50%;
+	height: 50px;
+	font-size: 30px;
+	background: #f5f5f5;
+	border-radius: 10px;
+}
